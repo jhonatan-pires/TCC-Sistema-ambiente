@@ -13,9 +13,16 @@ Entendendo Orientação a Objetos;
 um paradigma no qual implementa-se um conjunto de classes, que definem os objetos através de seus estados e comportamentos necessários em determinado software. ... O conjunto de atributos de um determinado objeto é chamado de estado.
 
 
+
+
+
 Porque a utilização de Designer Patterns?
 
 Por conta de ser uma coleção de padrões de desenho de software, que são soluções para problemas conhecidos e recorrentes no desenvolvimento de software.  Os padrões refletem a experiência, conhecimento e soluções.
+
+
+
+
 
 
 Tecnologias Utilizadas?
