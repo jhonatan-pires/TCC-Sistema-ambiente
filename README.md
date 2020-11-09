@@ -29,10 +29,5 @@ Tecnologias Utilizadas?
 Java, Orientação a Objetos(POO),  Interface Grafica, Designer Patterns (BO, DAO, DTO, VO)
 
 
-> ![1](https://user-images.githubusercontent.com/67131323/98454701-442a9200-2146-11eb-9587-c99c49f88075.PNG)
-> ![2](https://user-images.githubusercontent.com/67131323/98454731-a388a200-2146-11eb-8690-ad8059236248.PNG)
-> ![3](https://user-images.githubusercontent.com/67131323/98454734-ad120a00-2146-11eb-8fec-911fee785bc9.PNG)
-> ![4](https://user-images.githubusercontent.com/67131323/98454735-aedbcd80-2146-11eb-9692-9fbedf22a9d1.PNG)
-> ![5](https://user-images.githubusercontent.com/67131323/98454739-b00cfa80-2146-11eb-9c9a-1fb5a735b603.PNG)
-> ![6](https://user-images.githubusercontent.com/67131323/98454740-b0a59100-2146-11eb-9e61-749be14ac0e6.PNG)
-> ![7](https://user-images.githubusercontent.com/67131323/98454741-b13e2780-2146-11eb-9534-b0e70be42876.PNG)
+![1](https://user-images.githubusercontent.com/67131323/98491109-8de0ae80-2212-11eb-8694-4d6dbe7d623f.png)
+![2](https://user-images.githubusercontent.com/67131323/98491116-920ccc00-2212-11eb-8e25-c9813c701aaa.png)
