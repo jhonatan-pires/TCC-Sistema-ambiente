@@ -28,7 +28,4 @@ Por conta de ser uma coleção de padrões de desenho de software, que são solu
 Tecnologias Utilizadas?
 Java, Orientação a Objetos(POO),  Interface Grafica, Designer Patterns (BO, DAO, DTO, VO)
 
-
-![1](https://user-images.githubusercontent.com/67131323/98491109-8de0ae80-2212-11eb-8694-4d6dbe7d623f.png)
-![2](https://user-images.githubusercontent.com/67131323/98491116-920ccc00-2212-11eb-8e25-c9813c701aaa.png)
-![3](file:///C:/Users/Pichau/Downloads/Documento%20sem%20t%C3%ADtulo.pdf)
+![Documento+sem+título pdf](https://user-images.githubusercontent.com/67131323/126162820-b226e21f-cb25-4be3-bc66-b6583f48517f.png)
