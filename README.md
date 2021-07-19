@@ -1,31 +1,17 @@
-Projeto Meio Ambiente
+## Projeto Meio Ambiente
 
 Qual a Funcionalidade do Projeto?
- Aplicação Desktop, nesse projeto foi acrescentado o Maps, com intenção
-de colaborar com a natureza, trazendo como benefício, Denúncia contra maus tratos
-ao animais, buscar onde está acontecendo desmatamento e
-queimadas, etc.
+- Aplicação Desktop, nesse projeto foi acrescentado o Maps, com intenção de colaborar com a natureza, trazendo como benefício, Denúncia contra maus tratos ao animais, buscar onde está acontecendo desmatamento e queimadas, etc.
 
+## Entendendo Orientação a Objetos;
 
+- um paradigma no qual implementa-se um conjunto de classes, que definem os objetos através de seus estados e comportamentos necessários em determinado software. ... O conjunto de atributos de um determinado objeto é chamado de estado.
 
-Entendendo Orientação a Objetos;
+## Porque a utilização de Designer Patterns?
 
-um paradigma no qual implementa-se um conjunto de classes, que definem os objetos através de seus estados e comportamentos necessários em determinado software. ... O conjunto de atributos de um determinado objeto é chamado de estado.
+- Por conta de ser uma coleção de padrões de desenho de software, que são soluções para problemas conhecidos e recorrentes no desenvolvimento de software.  Os padrões refletem a experiência, conhecimento e soluções.
 
-
-
-
-
-Porque a utilização de Designer Patterns?
-
-Por conta de ser uma coleção de padrões de desenho de software, que são soluções para problemas conhecidos e recorrentes no desenvolvimento de software.  Os padrões refletem a experiência, conhecimento e soluções.
-
-
-
-
-
-
-Tecnologias Utilizadas?
-Java, Orientação a Objetos(POO),  Interface Grafica, Designer Patterns (BO, DAO, DTO, VO)
+## Tecnologias Utilizadas?
+- Java, Orientação a Objetos(POO),  Interface Grafica, Designer Patterns (BO, DAO, DTO, VO)
 
 ![Documento+sem+título pdf](https://user-images.githubusercontent.com/67131323/126162820-b226e21f-cb25-4be3-bc66-b6583f48517f.png)
